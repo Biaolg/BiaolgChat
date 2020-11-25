@@ -3822,9 +3822,9 @@ hex-color-regex@^1.1.0:
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
 highlight.js@^9.6.0:
-  version "9.18.1"
-  resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha1-7SGqAB/mJSuxCj121HVzxlOf4Tw=
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -7587,6 +7587,11 @@ vue-cli-plugin-bootstrap-vue@^0.6.0:
   version "0.6.0"
   resolved "https://registry.npm.taobao.org/vue-cli-plugin-bootstrap-vue/download/vue-cli-plugin-bootstrap-vue-0.6.0.tgz#cc500263b2ffd2c3d7ca1c3e5436860b0b20bb74"
   integrity sha1-zFACY7L/0sPXyhw+VDaGCwsgu3Q=
+
+vue-cookies@^1.7.0:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/vue-cookies/-/vue-cookies-1.7.4.tgz#d241d0a0431da0795837651d10b4d73e7c8d3e8d"
+  integrity sha512-mOS5Btr8V9zvAtkmQ7/TfqJIropOx7etDAgBywPCmHjvfJl2gFbH2XgoMghleLoyyMTi5eaJss0mPN7arMoslA==
 
 vue-functional-data-merge@^3.1.0:
   version "3.1.0"
